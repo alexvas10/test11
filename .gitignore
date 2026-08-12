@@ -1,0 +1,31 @@
+node_modules/
+dist/
+
+# Secrets. Broad on purpose — .env.example is the only env file that ships,
+# and it holds placeholders, never a key.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*service-account*.json
+gha-creds-*.json
+
+# Planning and strategy notes. Kept locally, out of the repo: the repo gets
+# shared with hackathon judges, and competitive positioning is not something
+# they need to read.
+01-bidwright-rfp-agent.md
+02-trade-back-office.md
+03-dormant-revenue-reactivation.md
+hackathon.md
+
+# Corpus PDFs. Not tracked — they are ~29MB of public government documents and
+# git history is permanent. `npm run corpus:fetch` restores them from
+# corpus/manifest.json, which IS tracked, along with the labels.
+app/corpus/*.pdf
+
+# Eval working files: regenerable, and large.
+app/corpus/.parse-cache/
+app/corpus/out/
+*.requirements.json

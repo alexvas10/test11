@@ -1,0 +1,171 @@
+{
+  "document": "csc-hvac-replacement.pdf",
+  "note": "CSC Invitation to Tender 21460-27-5472730, HVAC replacement at Warkworth Institution, 38pp. Lowest-compliant-price award with four pass/fail technical criteria (M1-M4) in Annex D, so there are no points-weighted rated items — a good early test of whether the agent invents a rated class where none exists. Mandatories are spread across SI (bidding rules), SC (contract conditions) and Annex D; the site-visit and Red Seal certification clauses are the ones a small firm actually gets disqualified on. Drafted by reading the PDF text layer; every verbatim and page is machine-verified by verify-labels.ts, but completeness is a human judgement and has not been independently reviewed.",
+  "requirements": [
+    {
+      "verbatim": "Bids submitted by Suppliers of a Non-Trading Partner will be rejected.",
+      "type": "mandatory",
+      "page": 2
+    },
+    {
+      "verbatim": "Bidders should provide Appendix 1 at Bid closing a list of Subcontractors and suppliers that have 20% or more of the tendered price value.",
+      "type": "informational",
+      "page": 2
+    },
+    {
+      "verbatim": "All enquiries and other communications related to this bid sent throughout the solicitation period must be directed ONLY to the Contracting Authority named on the Invitation to Tender - Page 1.",
+      "type": "mandatory",
+      "page": 4
+    },
+    {
+      "verbatim": "It is mandatory that the Bidder or a representative of the Bidder visit the work site.",
+      "type": "mandatory",
+      "page": 4
+    },
+    {
+      "verbatim": "Bidders must communicate with the Contracting Authority no later than August 10, 2026 at 11:00 a.m. to confirm attendance and provide the name(s) of the person(s) who will attend.",
+      "type": "mandatory",
+      "page": 4
+    },
+    {
+      "verbatim": "Bidders who do not attend the mandatory site visit, do not send a representative, or do not sign the attendance sheet will not be given an alternative appointment and their bid will be declared non-responsive.",
+      "type": "mandatory",
+      "page": 4
+    },
+    {
+      "verbatim": "Bidders must submit the Bid and Acceptance Form, duly completed, only to Correctional Service of Canada (CSC) by the date, time and at the CSC bid submission email address indicated on Front Page of the Invitation to Tender.",
+      "type": "mandatory",
+      "page": 5
+    },
+    {
+      "verbatim": "Bidders must submit their bid on or before the date and time set for solicitation closing.",
+      "type": "mandatory",
+      "page": 5
+    },
+    {
+      "verbatim": "the bid must be in Canadian currency;",
+      "type": "mandatory",
+      "page": 5
+    },
+    {
+      "verbatim": "The responsive bid carrying the lowest price will be recommended for contract award.",
+      "type": "informational",
+      "page": 6
+    },
+    {
+      "verbatim": "Failure to provide the certifications or the additional information listed below within the time frame provided will render the bid non-responsive.",
+      "type": "mandatory",
+      "page": 7
+    },
+    {
+      "verbatim": "Failure to provide the list of subcontractors and suppliers will render the bid non-responsive.",
+      "type": "mandatory",
+      "page": 8
+    },
+    {
+      "verbatim": "Failure to provide the list of names for integrity verification or integrity declaration form, or both, within the time frame provided will render the bid non-responsive.",
+      "type": "mandatory",
+      "page": 10
+    },
+    {
+      "verbatim": "Contractor personnel must adhere to institutional requirements for the conduct of searches by Correctional Service Canada prior to admittance to the institution/site.",
+      "type": "mandatory",
+      "page": 15
+    },
+    {
+      "verbatim": "The Contractor must, at the Contractor's expense, obtain and maintain insurance contracts in accordance with the requirements of the Certificate of Insurance.",
+      "type": "mandatory",
+      "page": 15
+    },
+    {
+      "verbatim": "Before commencement of the Work, and no later than thirty (30) days after contract award, the Contractor must deposit with Canada a Certificate of Insurance on the form attached herein.",
+      "type": "mandatory",
+      "page": 15
+    },
+    {
+      "verbatim": "The Contractor must comply and ensure that its employees and subcontractors comply with all security measures, standing orders, policies or other rules in force at the site where the Work is performed.",
+      "type": "mandatory",
+      "page": 15
+    },
+    {
+      "verbatim": "The Contractor must comply with all laws, regulations rules instructions and directives applicable to the performance of the Work or any part thereof in force on the site where the Work is to be performed.",
+      "type": "mandatory",
+      "page": 16
+    },
+    {
+      "verbatim": "Unless otherwise provided in the contract, the Contractor must obtain all permits and hold all certificates and licenses required for the performance of the Work.",
+      "type": "mandatory",
+      "page": 16
+    },
+    {
+      "verbatim": "It is mandatory that every Contractor contracted for work must have an account with the applicable Provincial or Territorial Workers Compensation Board/Commission, and coverage shall be extended to cover all employees.",
+      "type": "mandatory",
+      "page": 16
+    },
+    {
+      "verbatim": "Failure to provide proof of and results of a tuberculin test may result in the termination of the contract.",
+      "type": "informational",
+      "page": 16
+    },
+    {
+      "verbatim": "The Bidder offers to Canada to perform and complete the Work for the above named project in accordance with the Bid Documents for the Total Bid Amount of $",
+      "type": "form",
+      "page": 19
+    },
+    {
+      "verbatim": "The bid must not be withdrawn for a period of 90 days following the date of solicitation closing.",
+      "type": "mandatory",
+      "page": 19
+    },
+    {
+      "verbatim": "The Contractor must perform and complete the Work between Contract Award Date and October 31, 2026.",
+      "type": "mandatory",
+      "page": 19
+    },
+    {
+      "verbatim": "the Bidder should submit the list of Subcontractors and Suppliers for any portion of the Work valued at 20% or greater of the submitted In Price.",
+      "type": "form",
+      "page": 20
+    },
+    {
+      "verbatim": "The Contractor must correspond only with the Project Authority.",
+      "type": "mandatory",
+      "page": 32
+    },
+    {
+      "verbatim": "The Contractor must perform all work in English.",
+      "type": "mandatory",
+      "page": 33
+    },
+    {
+      "verbatim": "LISTING EXPERIENCE WITHOUT PROVIDING ANY SUBSTANTIATING DATA TO SUPPORT WHERE, WHEN AND HOW SUCH EXPERIENCE WAS OBTAINED WILL RESULT IN THE STATED EXPERIENCE NOT BEING CONSIDERED FOR EVALUATION PURPOSES.",
+      "type": "mandatory",
+      "page": 34
+    },
+    {
+      "verbatim": "Experience must be demonstrated through a history of past projects, either completed or on-going.",
+      "type": "mandatory",
+      "page": 34
+    },
+    {
+      "verbatim": "The bidder must provide a copy of their Ontario business license.",
+      "type": "mandatory",
+      "page": 35
+    },
+    {
+      "verbatim": "The bidder must provide proof of valid Refrigeration and Air Conditioning Systems Mechanic Red Seal certification(s) for each individual performing work under this contract.",
+      "type": "mandatory",
+      "page": 35
+    },
+    {
+      "verbatim": "The bidder must provide proof of valid Technical Service Safety Association certification(s) for each individual performing gas work under this contract.",
+      "type": "mandatory",
+      "page": 35
+    },
+    {
+      "verbatim": "The bidder must provide proof of valid Working at Heights (WAH) certification in Ontario for each individual performing work at heights under this contract.",
+      "type": "mandatory",
+      "page": 35
+    }
+  ]
+}

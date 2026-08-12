@@ -1,0 +1,191 @@
+{
+  "document": "rcmp-grounds-snow-peace-river.pdf",
+  "note": "RCMP M5000-25-04525/A, grounds maintenance and snow clearing across five Alberta detachments, 80pp. SCOPE: labelled thoroughly for pages 5-21 — Parts 1-4 and Attachment 1, i.e. everything that decides whether a bid is responsive. The 60-page Annex A statement of work is deliberately not labelled, so precision on this document will read low and should be ignored; recall (and mandatory recall) are computed only over what is labelled and remain meaningful. Chosen as a contrast with csc-hvac-replacement: the site visit here is OPTIONAL where CSC's is mandatory, and the same near-identical sentences recur in the Part 1 and Part 2 criteria — both are places an extractor can plausibly get the class wrong. Drafted by reading the PDF text layer; every verbatim and page is machine-verified by verify-labels.ts, completeness is not independently reviewed.",
+  "requirements": [
+    {
+      "verbatim": "All bidders must adhere to the Code of Conduct for Procurement throughout the procurement process and the performance of any resulting contract.",
+      "type": "mandatory",
+      "page": 5
+    },
+    {
+      "verbatim": "the Bidder must provide the name of all individuals who will require access to classified or protected information, assets or sensitive work sites;",
+      "type": "mandatory",
+      "page": 5
+    },
+    {
+      "verbatim": "Bids submitted by Suppliers of a Non-Trading Partner will be rejected.",
+      "type": "mandatory",
+      "page": 5
+    },
+    {
+      "verbatim": "This is an open tender. However, it will be conditionally set-aside under the Government of Canada's Procurement Strategy for Indigenous Business (PSIB) if two or more bids have been received by Indigenous businesses who are certified under the Procurement Strategy for Indigenous Business (PSIB) criteria",
+      "type": "informational",
+      "page": 6
+    },
+    {
+      "verbatim": "Bidders should make the request to the Contracting Authority within 15 working days from receipt of the results of the bid solicitation process.",
+      "type": "informational",
+      "page": 6
+    },
+    {
+      "verbatim": "bids must be received at the destination identified by the date, time and place indicated on page 1 of the solicitation.",
+      "type": "mandatory",
+      "page": 7
+    },
+    {
+      "verbatim": "Bids transmitted by facsimile to RCMP will not be accepted.",
+      "type": "mandatory",
+      "page": 7
+    },
+    {
+      "verbatim": "All enquiries must be submitted in writing to the Contracting Authority no later than five (5) calendar days before the bid closing date.",
+      "type": "mandatory",
+      "page": 7
+    },
+    {
+      "verbatim": "Any resulting contract must be interpreted and governed, and the relations between the parties determined, by the laws in force in Alberta.",
+      "type": "informational",
+      "page": 8
+    },
+    {
+      "verbatim": "It is recommended that the Bidder or a representative of the Bidder visit the work site.",
+      "type": "informational",
+      "page": 8
+    },
+    {
+      "verbatim": "Bidders are requested to communicate with the Contracting Authority no later than August 10, 2026 at 14:00 Mountain Daylight Time (MDT) to confirm attendance and provide the name(s) of the person(s) who will attend.",
+      "type": "informational",
+      "page": 8
+    },
+    {
+      "verbatim": "The maximum e-mail message size including all file attachments must not exceed 5MB.",
+      "type": "mandatory",
+      "page": 10
+    },
+    {
+      "verbatim": "Zip files or links to bid documents will not be accepted.",
+      "type": "mandatory",
+      "page": 10
+    },
+    {
+      "verbatim": "Prices must appear in the financial bid only. No prices must be indicated in any other section of the bid.",
+      "type": "mandatory",
+      "page": 10
+    },
+    {
+      "verbatim": "If the Bidder has not submitted the security information within the period set by the Contracting Authority, its bid will be declared non-responsive.",
+      "type": "mandatory",
+      "page": 11
+    },
+    {
+      "verbatim": "Mandatory Technical Criteria: The technical bid must substantiate the compliance with the specific articles of Attachment 1 to Part 4, which is the requested format for providing the substantiation.",
+      "type": "mandatory",
+      "page": 11
+    },
+    {
+      "verbatim": "Simply stating that the Bidder or its proposed solution or resources comply is not sufficient.",
+      "type": "mandatory",
+      "page": 12
+    },
+    {
+      "verbatim": "Where Canada determines that the substantiation is not complete, the Bidder will be considered non-responsive and disqualified.",
+      "type": "mandatory",
+      "page": 12
+    },
+    {
+      "verbatim": "each project description must include, at minimum, the name and either the telephone number or e-mail address of a client reference",
+      "type": "mandatory",
+      "page": 12
+    },
+    {
+      "verbatim": "For work experience, Canada will not consider experience gained as part of an educational program, except for experience gained through a formal co-operative program at a post-secondary institution.",
+      "type": "mandatory",
+      "page": 13
+    },
+    {
+      "verbatim": "If Canada sends such a written request, the bidder will have 2 working days to provide the necessary information to Canada. Failure to meet this deadline will result in the bid being declared non-responsive.",
+      "type": "mandatory",
+      "page": 13
+    },
+    {
+      "verbatim": "For each client reference, the Bidder must, at a minimum, provide the name and e-mail address for a contact person.",
+      "type": "mandatory",
+      "page": 14
+    },
+    {
+      "verbatim": "Bidders must submit their financial bid in accordance with the Basis of Payment provided in Annex B.",
+      "type": "mandatory",
+      "page": 14
+    },
+    {
+      "verbatim": "The total amount of Applicable Taxes must be shown separately, if applicable.",
+      "type": "mandatory",
+      "page": 14
+    },
+    {
+      "verbatim": "Any bidder who does not confirm that the price for a blank item is $0.00 will be declared non-responsive.",
+      "type": "mandatory",
+      "page": 14
+    },
+    {
+      "verbatim": "Bidders must submit the certifications and additional information required under Part 5.",
+      "type": "mandatory",
+      "page": 14
+    },
+    {
+      "verbatim": "Bidder's Procurement Business Number (PBN)",
+      "type": "form",
+      "page": 15
+    },
+    {
+      "verbatim": "The Bidder considers itself and its proposed resources able to meet all the mandatory requirements described in the bid solicitation;",
+      "type": "form",
+      "page": 15
+    },
+    {
+      "verbatim": "Any element of the technical criteria identified specifically with the words \"must\" or \"mandatory\" is a mandatory requirement.",
+      "type": "informational",
+      "page": 16
+    },
+    {
+      "verbatim": "Canada will not award any points and/or a bidder will not meet the mandatory experience requirement (as applicable) unless the response is received within 5 working days of the date that Canada's email was sent.",
+      "type": "mandatory",
+      "page": 16
+    },
+    {
+      "verbatim": "A bid must comply with the requirements of the bid solicitation and meet all mandatory technical evaluation criteria to be declared responsive.",
+      "type": "mandatory",
+      "page": 17
+    },
+    {
+      "verbatim": "For each combination of location and service category, the responsive bid with the lowest evaluated price will be recommended for contract award.",
+      "type": "informational",
+      "page": 17
+    },
+    {
+      "verbatim": "Bidders who are submitting a bid to perform Grounds Maintenance Services must provide the Mandatory Criteria listed in M1.",
+      "type": "mandatory",
+      "page": 18
+    },
+    {
+      "verbatim": "The experience must be for duration of at least two (2) consecutive years (Spring, Summer and Fall seasons) within the last five (5) years.",
+      "type": "mandatory",
+      "page": 18
+    },
+    {
+      "verbatim": "In the event where the information provided cannot be confirmed, by the client contacts named in the table, the bid will be considered non-responsive and no further consideration will be given.",
+      "type": "mandatory",
+      "page": 18
+    },
+    {
+      "verbatim": "Bidders who are submitting a bid to perform Snow Clearing and Snow Removal Services must provide the Mandatory Criteria listed in M2.",
+      "type": "mandatory",
+      "page": 20
+    },
+    {
+      "verbatim": "The experience must be for duration of at least two (2) consecutive years (Winter seasons) within the last five (5) years.",
+      "type": "mandatory",
+      "page": 20
+    }
+  ]
+}

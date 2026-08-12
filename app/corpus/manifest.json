@@ -1,0 +1,106 @@
+{
+  "source": "CanadaBuys open tender notices (open data feed)",
+  "retrieved": "2026-08-11",
+  "note": "Public Government of Canada tender documents, downloaded to evaluate the shred agent. One primary requirements document per tender; drawings, forms and photo appendices were left out.",
+  "documents": [
+    {
+      "name": "rcmp-grounds-snow-peace-river",
+      "title": "Grounds Maintenance Services and/or Snow Clearing and Removal Services – RCMP Peace River,",
+      "issuer": "Royal Canadian Mounted Police (RCMP)",
+      "solicitationNumber": "M5000-25-04525/A",
+      "closesOn": "2026-08-21",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/101150/m5000-25-04525a---rfp-en.pdf"
+    },
+    {
+      "name": "aafc-janitorial-agassiz",
+      "title": "Addendum # 1 - Janitorial Services – Agassiz Research and Development Centre",
+      "issuer": "Department of Agriculture and Agri-Food (AAFC)",
+      "solicitationNumber": "WSC-2025-2026-198",
+      "closesOn": "2026-08-18",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/99789/rfp-wsc-2025-2026-198---english.pdf"
+    },
+    {
+      "name": "phac-grounds-maintenance",
+      "title": "Grounds Maintenance",
+      "issuer": "Public Health Agency of Canada (PHAC)",
+      "solicitationNumber": "1000266564",
+      "closesOn": "2026-08-17",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/100877/1000266564---ground-maintenance---rfp.pdf"
+    },
+    {
+      "name": "aafc-electrical-swift-current",
+      "title": "Electrical Services, AAFC, Swift Current Research and Development Centre",
+      "issuer": "Department of Agriculture and Agri-Food (AAFC)",
+      "solicitationNumber": "WSC-2627-002",
+      "closesOn": "2026-09-01",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/101484/rfp-wsc-2627-002-%28e.pdf"
+    },
+    {
+      "name": "nrcan-snow-removal-deicing",
+      "title": "Snow Removal and De-icing Services",
+      "issuer": "Department of Natural Resources (NRCan)",
+      "solicitationNumber": "NRCan-5000095625",
+      "closesOn": "2026-09-01",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/102206/rfp_nrcan-5000095625-snow-removal-and-de-icing-services-189644.pdf"
+    },
+    {
+      "name": "csc-hvac-replacement",
+      "title": "HVAC Removal and Replacement – 2 x Furnaces and 2 x Air Conditioning Units",
+      "issuer": "Correctional Service of Canada (CSC)",
+      "solicitationNumber": "21460-27-5472730",
+      "closesOn": "2026-08-20",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/102476/5472730---hvac-replacement---wi---construction-itt_final.pdf"
+    },
+    {
+      "name": "cfia-cleaning-saint-hyacinthe",
+      "title": "Cleaning services for Saint-Hyacinthe",
+      "issuer": "Canadian Food Inspection Agency (CFIA)",
+      "solicitationNumber": "2026-00336",
+      "closesOn": "2026-08-18",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/101208/2026-00336-rfp_1.pdf"
+    },
+    {
+      "name": "gac-cleaning-embassy-stockholm",
+      "title": "Cleaning Services for the Embassy of Canada to Sweden, in Stockholm",
+      "issuer": "Department of Foreign Affairs, Trade and Developme",
+      "solicitationNumber": "27-317296-STKHM-SL",
+      "closesOn": "2026-08-28",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/100118/27-317296-stkhm-sl---cleaning-services---rfo_0.pdf"
+    },
+    {
+      "name": "csa-snow-removal-longueuil",
+      "title": "Snow Removal Services for the Canadian Space Agency located in Longueuil, Quebec.",
+      "issuer": "Canadian Space Agency (CSA)",
+      "solicitationNumber": "9F030 – 20260028",
+      "closesOn": "2026-08-17",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/102181/9f030---20260028---rfp.pdf"
+    },
+    {
+      "name": "oldport-snow-removal-montreal",
+      "title": "SNOW REMOVAL SERVICES",
+      "issuer": "Old Port of Montreal Corporation Inc.",
+      "solicitationNumber": "DDPINT-26-1631",
+      "closesOn": "2026-08-28",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/100579/opmc---ddpint---26---1631---snow-removal-services.pdf"
+    },
+    {
+      "name": "pspc-temporary-help-rfsa",
+      "title": "Supplier Pre-Qualification (RFSA) - Temporary Help Services for the National Capital Regio",
+      "issuer": "Department of Public Works and Government Services",
+      "solicitationNumber": "EN578-172870/D - AMD 009",
+      "closesOn": "2028-03-31",
+      "noticeUrl": "",
+      "pdfUrl": "https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/6278/request_for_supply_arrangement_-_temporary_help_services_-_perpetual_refreshes_-_spring_2023_version-%284.pdf"
+    }
+  ]
+}
